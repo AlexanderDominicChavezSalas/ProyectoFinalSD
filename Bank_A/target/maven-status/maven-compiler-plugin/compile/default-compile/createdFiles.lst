@@ -1,0 +1,5 @@
+com\soap\ws\Bank_A.class
+com\soap\ws\LockManager.class
+com\soap\ws\RemoteInterface.class
+com\soap\ws\ServerBank_A.class
+com\soap\ws\Usuario.class
